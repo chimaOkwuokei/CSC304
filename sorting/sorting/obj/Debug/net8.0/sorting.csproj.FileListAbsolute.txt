@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\bin\Debug\net8.0\sorting.exe
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\bin\Debug\net8.0\sorting.deps.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\bin\Debug\net8.0\sorting.runtimeconfig.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\bin\Debug\net8.0\sorting.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\bin\Debug\net8.0\sorting.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.AssemblyInfo.cs
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\refint\sorting.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\sorting.genruntimeconfig.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\sorting\sorting\obj\Debug\net8.0\ref\sorting.dll

@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.exe
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.deps.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.runtimeconfig.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.AssemblyInfo.cs
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\refint\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.genruntimeconfig.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic_equation_c#\obj\Debug\net8.0\ref\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.exe
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.deps.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.runtimeconfig.json
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\bin\Debug\net8.0\quadratic_equation_c#.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.AssemblyInfo.cs
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\refint\quadratic_equation_c#.dll
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.pdb
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\quadratic_equation_c#.genruntimeconfig.cache
+C:\Users\HP\Desktop\class notes\Year 3 second semester\CSC 304 - Survey of Programming Language\2nd and 3rd CAs\quadratic equations\quadratic_equation_c#\obj\Debug\net8.0\ref\quadratic_equation_c#.dll

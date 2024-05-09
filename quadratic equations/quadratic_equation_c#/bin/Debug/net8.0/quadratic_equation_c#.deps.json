@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quadratic_equation_c#/1.0.0": {
+        "runtime": {
+          "quadratic_equation_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quadratic_equation_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
